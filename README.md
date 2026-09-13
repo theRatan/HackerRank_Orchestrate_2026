@@ -60,7 +60,6 @@ The blank template at `dataset/output.csv` is provided as a reference. Your fina
 
 ```text
 .
-├── AGENTS.md                         # Rules for AI coding tools + transcript logging
 ├── problem_statement.md              # Full challenge statement
 ├── README.md                         # You are here
 ├── code/                             # Your solution code
